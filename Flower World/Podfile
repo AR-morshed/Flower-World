@@ -1,0 +1,12 @@
+platform :ios, '9.0'
+
+target 'Flower World' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Flower World
+pod 'Alamofire'
+pod 'SwiftyJSON'
+pod 'SDWebImage' 
+
+end
